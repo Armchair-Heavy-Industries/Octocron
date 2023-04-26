@@ -5,3 +5,5 @@
 
 ## This shit sucks
 Probably don't build it. The CAD is a mess and thats how its gonna be.
+
+https://discord.gg/armchairengineeringsux
