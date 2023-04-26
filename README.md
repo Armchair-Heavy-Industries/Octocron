@@ -1,4 +1,4 @@
-# Ocrocron
+# Octocron
 8WD Doom Micron Show Printer
 
 ## This shit sucks
