@@ -6,4 +6,4 @@
 ## This shit sucks
 Probably don't build it. The CAD is a mess and thats how its gonna be.
 
-https://discord.gg/armchairengineeringsux
+[![Join me on Discord](https://discord.com/api/guilds/1029426383614648421/widget.png?style=banner2)](https://discord.gg/armchairengineeringsux)
