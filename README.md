@@ -1,6 +1,8 @@
 # Octocron
 8WD Doom Micron Show Printer
 
+Project Lead: Derpimus
+
 ![image](https://github.com/Armchair-Engineering/Octocron/blob/main/images/image0.jpeg)
 
 ## This shit sucks
